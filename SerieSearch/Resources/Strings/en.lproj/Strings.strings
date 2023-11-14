@@ -1,0 +1,6 @@
+/*  English */
+
+serieSearch = "Serie Search";
+search = "Search";
+failedToFetchSeries = "Failed to fetch series";
+ok = "OK";
