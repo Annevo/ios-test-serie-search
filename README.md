@@ -22,9 +22,9 @@ The application should be written in Swift or SwiftUI. Whether you choose to bui
 - Search should be triggered when the user hasn't typed for 0.5 seconds to minimize unnecessary API requests.
 
 ## Delivery
-When you are done, simply create a pull request. The assignment will be assessed based on the code's readability, structure, and the ability to create a UI matching the design. We prefer clean, self-documenting code that is thoroughly tested.
+When you are done, simply create a pull request. If you prefer to start your own project from scratch, that's perfectly fine. In that case, create a new repository and share it with us.
 
-Feel free to reach out if you have any questions about the assignment.
+The assignment will be assessed based on the code's readability, structure, and the ability to create a UI matching the design. We prefer clean, self-documenting code that is thoroughly tested. Feel free to reach out if you have any questions about the assignment.
 
 [TV maze API]: https://www.tvmaze.com/api
 [linked design]: https://www.figma.com/file/q5onZTjSjMWYrzqvE23iyU/Series-Search?type=design&node-id=0:1&mode=design&t=LwagVwjuRI9un48F-1
