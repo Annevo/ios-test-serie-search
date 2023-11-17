@@ -27,4 +27,4 @@ When you are done, simply create a pull request. If you prefer to start your own
 The assignment will be assessed based on the code's readability, structure, and the ability to create a UI matching the design. We prefer clean, self-documenting code that is thoroughly tested. Feel free to reach out if you have any questions about the assignment.
 
 [TV maze API]: https://www.tvmaze.com/api
-[linked design]: https://www.figma.com/file/q5onZTjSjMWYrzqvE23iyU/Series-Search?type=design&node-id=0:1&mode=design&t=LwagVwjuRI9un48F-1
+[linked design]: https://www.figma.com/file/j2HHAOdso9rlz9rZrgqKDS/App-test-for-devs---Series-Search-iOS%2FAndroid?type=design&node-id=0%3A1&mode=design&t=9gVyGY6s6u85c1j3-1
